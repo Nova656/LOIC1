@@ -1,2 +1,0 @@
-# LOIC1
-tool
